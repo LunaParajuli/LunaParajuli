@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Food App(using React)](react-food-pro.vercel.app)
 
-- 🌱 I’m currently learning **React, java**
+- 🌱 I studied **B.Sc.CSIT** at PadmaKanya Multiple Campus affiliated to Tribhuwan University, Kathmandu
 
 - 👨‍💻 All of my projects are available at [https://lunaparajuli.github.io/Portfolio_Project/](https://lunaparajuli.github.io/Portfolio_Project/)
 
