@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Luna Parajuli</h1>
-<h3 align="center">I am an enthusiastic in **Front-End Development**   </h3>
+<h3 align="center">I am an enthusiastic in **Web Development**   </h3>
 
 <p>I have a strong foundation in front-end technologies like HTML, CSS, Tailwind CSS, Bootstrap, and React. My journey in web development is fueled by my curiosity and dedication to building efficient and aesthetically pleasing digital experiences. I believe in continuous learning and aim to bridge the gap between front-end and back-end development.</p>
 
