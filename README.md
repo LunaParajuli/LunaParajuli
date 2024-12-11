@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Luna Parajuli</h1>
 <h3 align="center">I am an enthusiastic in **Web Development**   </h3>
 
-<p>I have a strong foundation in front-end technologies like HTML, CSS, Tailwind CSS, Bootstrap, and React. My journey in web development is fueled by my curiosity and dedication to building efficient and aesthetically pleasing digital experiences. I believe in continuous learning and aim to bridge the gap between front-end and back-end development.</p>
+<p>I have a strong foundation in front-end technologies, including HTML, CSS, Tailwind CSS, Bootstrap, and React. My journey in web development is driven by curiosity and a dedication to creating efficient and visually appealing digital experiences. Additionally, I have been learning Java to enhance my programming knowledge. I believe in continuous learning and aspire to bridge the gap between front-end and back-end development.</p>
 
 - 🔭 I’m currently working on [Food App(using React)](react-food-pro.vercel.app)
 
