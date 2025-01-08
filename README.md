@@ -11,10 +11,11 @@
 - 👨‍💻 All of my projects are available at [https://lunaparajuli.github.io/Portfolio_Project/](https://lunaparajuli.github.io/Portfolio_Project/)
 
 - 💬 Ask me about
+                  - My journey learning **Java** for backend development.
                   - Building responsive front-end applications using **React**.
                   - Crafting modern UIs with **Tailwind CSS** and **Bootstrap**.
                   - Writing semantic and accessible **HTML** and **CSS**.
-                  - My journey learning **Java** for backend development.
+                  
 
 - 📫 How to reach me **parajuliluna8@gmail.com**
 
