@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Luna Parajuli</h1>
 <h3 align="center"> </h3>
 
-<p>I have a strong foundation in front-end technologies, including HTML, CSS, Tailwind CSS, Bootstrap, React and Java. My journey in web development is driven by curiosity and a dedication to creating efficient and visually appealing digital experiences. Additionally, I have been learning **Java and it's framework Spring & Spring Boot** to enhance my programming knowledge. I believe in continuous learning and aspire to bridge the gap between front-end and back-end development.</p>
+<p>I have a strong foundation in front-end technologies, including HTML, CSS, Tailwind CSS, Bootstrap, React and Java. My journey in web development is driven by curiosity and a dedication to creating efficient and visually appealing digital experiences. Additionally, I have been learning **Java and it's framework Spring & SpringBoot** to enhance my programming knowledge. I believe in continuous learning and aspire to bridge the gap between front-end and back-end development.</p>
 
 - 🔭 I’m currently working on [LMS(using JSP)](https://github.com/LunaParajuli/LMS_JSP.git)
 
