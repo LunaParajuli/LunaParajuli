@@ -4,7 +4,7 @@
 
 <p>I have a strong foundation in front-end technologies, including HTML, CSS, Tailwind CSS, Bootstrap, React and Java. My journey in web development is driven by curiosity and a dedication to creating efficient and visually appealing digital experiences. Additionally, I have been learning **Java and it's framework Spring & SpringBoot** to enhance my programming knowledge. I believe in continuous learning and aspire to bridge the gap between front-end and back-end development.</p>
 
-- 🔭 I’m currently working on [LMS(using JSP)](https://github.com/LunaParajuli/LMS_JSP.git)
+- 🔭 I’m currently working on [`E-com FullStack (Using React and SpringBoot`)]
 
 - 🌱 I studied **B.Sc.CSIT** at PadmaKanya Multiple Campus affiliated to Tribhuwan University, Kathmandu
 
